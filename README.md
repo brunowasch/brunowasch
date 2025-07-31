@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2F84F5&random=false&width=500&lines=Hello%2C+my+name+is+Bruno+Waschburger+Silva!)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
-I'm a brazilian full-stack developer with a passion for building scalable, efficient, and user-friendly web applications. I have hands-on experience in both front-end and back-end technologies, using technology always in my favor to create applications.
+I'm a **brazilian full-stack developer** with a passion for building scalable, efficient, and user-friendly web applications. I have hands-on experience in both front-end and back-end technologies, using technology always in my favor to create applications. I really enjoy working with databases and have a strong interest in both **SQL and NoSQL databases**, focusing on modeling, optimization, and efficient integration to develop high-performance systems.
 
 I focus on delivering solutions that solve real-world problems while ensuring the application is intuitive and adaptable to users' needs. I thrive on learning new technologies, experimenting with innovative approaches, and collaborating with other professionals to tackle complex challenges.
 
@@ -27,15 +27,13 @@ Here's my most recent project which I'm currently working on:
 ![C Icon](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Swift Icon](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![MySQL Icon](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![MongoDB Icon](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git Icon](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 💡 Personal Values
 I aim to be a developer who values integrity, continuous learning, and collaboration. I believe that building great software is not just about writing code, but about solving real-world problems and making a positive impact on users.
 
-### Key Values:
-- *Integrity*: I prioritize honesty and transparency in my work, ensuring that I deliver reliable and well-tested solutions.
-- *Continuous Learning*: The tech world is ever-evolving, and I strive to stay updated on new tools, frameworks, and best practices to improve my craft.
-- *Collaboration*: I thrive in team environments where ideas can be shared openly, and different perspectives can lead to the best outcomes.
 
 ## 📈 My most used languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunowasch&layout=compact&theme=radical)
@@ -47,10 +45,10 @@ Feel free to reach out if you're interested in collaborating on exciting project
 
 ---
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2F84F5&random=false&width=500&lines=Olá%2C+mey+nome+é+Bruno+Waschburger+Silva!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2F84F5&random=false&width=500&lines=Olá%2C+meu+nome+é+Bruno+Waschburger+Silva!)](https://git.io/typing-svg)
 
 ## 👨‍💻 Sobre Mim
-Sou um desenvolvedor full-stack brasileiro, apaixonado por construir aplicações web escaláveis, eficientes e amigáveis ao usuário. Tenho experiência prática tanto no front-end quanto no back-end, utilizando a tecnologia sempre a meu favor para criar aplicações.
+Sou um **desenvolvedor full-stack brasileiro**, apaixonado por construir aplicações web escaláveis, eficientes e amigáveis ao usuário. Tenho experiência prática tanto no front-end quanto no back-end, utilizando a tecnologia sempre a meu favor para criar aplicações. Gosto muito de trabalhar com bancos de dados e tenho um interesse especial tanto por bancos de dados **SQL quanto NoSQL**, com foco em modelagem, otimização e integração eficiente para desenvolver sistemas de alto desempenho.
 
 Meu foco é entregar soluções que resolvam problemas reais, garantindo que a aplicação seja intuitiva e adaptável às necessidades dos usuários. Estou sempre em busca de aprender novas tecnologias, experimentar abordagens inovadoras e colaborar com outros profissionais para resolver desafios complexos.
 
@@ -75,16 +73,12 @@ Aqui está o meu projeto mais recente no qual estou trabalhando:
 ![Java Icon](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C Icon](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Swift Icon](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![MySQL Icon](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![MongoDB Icon](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git Icon](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 💡 Valores Pessoais
 Tenho o objetivo de ser um desenvolvedor o qual valoriza a integridade, o aprendizado contínuo e a colaboração. Acredito que construir um bom software não é apenas sobre escrever código, mas sobre resolver problemas reais e causar um impacto positivo nos usuários.
-
-### Principais Valores:
-- *Integridade*: Priorizo a honestidade e transparência no meu trabalho, garantindo que eu entregue soluções confiáveis e bem testadas.
-- *Aprendizado Contínuo*: O mundo da tecnologia está em constante evolução, e busco sempre me atualizar sobre novas ferramentas, frameworks e melhores práticas para melhorar meu trabalho.
-- *Colaboração*: Gosto de ambientes de equipe onde as ideias podem ser compartilhadas abertamente, e diferentes perspectivas podem levar aos melhores resultados.
 
 ## 📈 Linguagens que mais uso
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunowasch&layout=compact&theme=radical)
