@@ -34,9 +34,12 @@ Here's my most recent project which I'm currently working on:
 ## 💡 Personal Values
 I aim to be a developer who values integrity, continuous learning, and collaboration. I believe that building great software is not just about writing code, but about solving real-world problems and making a positive impact on users.
 
-
 ## 📈 My most used languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunowasch&layout=compact&theme=radical)
+
+## 🌐 Languages I speak
+- 🇧🇷 Portuguese — Native / Fluent
+- 🇺🇸 English — Advanced
 
 ## 📫 Contact me!
 - Email: [bwaschburger@gmail.com](bwaschburger@gmail.com)
@@ -82,6 +85,10 @@ Tenho o objetivo de ser um desenvolvedor o qual valoriza a integridade, o aprend
 
 ## 📈 Linguagens que mais uso
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunowasch&layout=compact&theme=radical)
+
+## 🌐 Idiomas que falo
+- 🇧🇷 Português — Nativo / Fluente  
+- 🇺🇸 Inglês — Avançado
 
 ## 📫 Entre em contato!
 - Email: [bwaschburger@gmail.com](bwaschburger@gmail.com)
