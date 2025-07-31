@@ -93,3 +93,9 @@ Tenho o objetivo de ser um desenvolvedor o qual valoriza a integridade, o aprend
 - Email: [bwaschburger@gmail.com](bwaschburger@gmail.com)
 
 Fique à vontade para entrar em contato caso queira colaborar em projetos interessantes ou apenas conversar sobre tecnologia!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunowasch/brunowasch/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunowasch/brunowasch/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brunowasch/brunowasch/output/github-contribution-grid-snake.svg">
+</picture>
