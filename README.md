@@ -14,7 +14,7 @@ Here's my most recent project which I'm currently working on:
   - Features AI-driven personality tests, job recommendations, and company profiles.
   - Full-stack application with a focus on providing an intuitive and scalable user experience.
 
-[![Access Connect Skills here](https://img.shields.io/badge/Access_Connect_Skills_by_clicking_here-2F84F5?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF)](https://connectskills.com.br)
+[![Access Connect Skills here](https://img.shields.io/badge/Access_Connect_Skills_here-2F84F5?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF)](https://connectskills.com.br)
 
 ## 🛠️ Tools & Technologies
 <p>
@@ -66,7 +66,7 @@ Aqui está o meu projeto mais recente no qual estou trabalhando:
   - Possui testes de personalidade impulsionados por IA, recomendações de emprego e perfis de empresas.
   - Aplicação full-stack com foco em proporcionar uma experiência de usuário intuitiva e escalável.
 
-[![Acesse o Connect Skills aqui](https://img.shields.io/badge/Acesse_o_Connect_Skills_clicando_aqui-2F84F5?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF)](https://connectskills.com.br)
+[![Acesse o Connect Skills aqui](https://img.shields.io/badge/Acesse_o_Connect_Skills_aqui-2F84F5?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF)](https://connectskills.com.br)
 
 ## 🛠️ Ferramentas e Tecnologias
 <p>
