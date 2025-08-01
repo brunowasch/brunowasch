@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2F84F5&random=false&width=500&lines=Hello%2C+my+name+is+Bruno+Waschburger+Silva!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2F84F5&random=false&width=500&lines=Hello%2C+I'm+Bruno+Waschburger+Silva!)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
 I'm a **brazilian full-stack developer** with a passion for building scalable, efficient, and user-friendly web applications. I have hands-on experience in both front-end and back-end technologies, using technology always in my favor to create applications. I really enjoy working with databases and have a strong interest in both **SQL and NoSQL databases**, focusing on modeling, optimization, and efficient integration to develop high-performance systems.
@@ -53,7 +53,7 @@ Feel free to reach out if you're interested in collaborating on exciting project
 
 ---
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2F84F5&random=false&width=500&lines=Olá%2C+meu+nome+é+Bruno+Waschburger+Silva!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2F84F5&random=false&width=500&lines=Olá%2C+sou+Bruno+Waschburger+Silva!)](https://git.io/typing-svg)
 
 ## 👨‍💻 Sobre Mim
 Sou um **desenvolvedor full-stack brasileiro**, apaixonado por construir aplicações web escaláveis, eficientes e amigáveis ao usuário. Tenho experiência prática tanto no front-end quanto no back-end, utilizando a tecnologia sempre a meu favor para criar aplicações. Gosto muito de trabalhar com bancos de dados e tenho um interesse especial tanto por bancos de dados **SQL quanto NoSQL**, com foco em modelagem, otimização e integração eficiente para desenvolver sistemas de alto desempenho.
