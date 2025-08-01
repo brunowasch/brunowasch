@@ -17,6 +17,9 @@ Here's my most recent project which I'm currently working on:
 [![Access Connect Skills here](https://img.shields.io/badge/Access_Connect_Skills_here-2F84F5?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF)](https://connectskills.com.br)
 
 ## 🛠️ Tools & Technologies
+
+Here are some of the tools and technologies I'm familiar with and currently use in my projects:
+
 <p>
   <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -69,6 +72,9 @@ Aqui está o meu projeto mais recente no qual estou trabalhando:
 [![Acesse o Connect Skills aqui](https://img.shields.io/badge/Acesse_o_Connect_Skills_aqui-2F84F5?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF)](https://connectskills.com.br)
 
 ## 🛠️ Ferramentas e Tecnologias
+
+Aqui estão algumas das ferramentas e tecnologias com as quais tenho tido contato e venho utilizando em meus projetos:
+
 <p>
   <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
