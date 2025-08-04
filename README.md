@@ -21,17 +21,16 @@ Here's my most recent project which I'm currently working on:
 Here are some of the tools and technologies I'm familiar with and currently use in my projects:
 
 <p>
+  <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img alt="CSS3" title="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="Bootstrap" title="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img alt="Node.js" title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img alt="Express" title="Express" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
   <img alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="C" title="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img alt="Swift" title="Swift" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
   <img alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img alt="MariaDB" title="MariaDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg"/>
   <img alt="MongoDB" title="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
@@ -46,8 +45,15 @@ I aim to be a developer who values integrity, continuous learning, and collabora
 - 🇧🇷 Portuguese — Native / Fluent
 - 🇺🇸 English — Advanced
 
+## 🖼️ Personal portfolio
+
+Feel free to explore my personal portfolio site to learn more about me, my skills, and projects:
+
+[![Visit Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-2F84F5?style=for-the-badge&logo=semanticweb&logoColor=white)](https://brunowasch.github.io/portfolio-pessoal)
+
 ## 📫 Contact me!
 - Email: [bwaschburger@gmail.com](bwaschburger@gmail.com)
+- LnkedIn: [https://www.linkedin.com/in/bruno-waschburger-silva-2b11b2360](https://www.linkedin.com/in/bruno-waschburger-silva-2b11b2360)
 
 Feel free to reach out if you're interested in collaborating on exciting projects or just want to chat about tech!
 
@@ -73,20 +79,19 @@ Aqui está o meu projeto mais recente no qual estou trabalhando:
 
 ## 🛠️ Ferramentas e Tecnologias
 
-Aqui estão algumas das ferramentas e tecnologias com as quais tenho tido contato e venho utilizando em meus projetos:
+Estas são algumas das ferramentas e tecnologias com as quais tenho tido contato e venho utilizando em meus projetos:
 
 <p>
+  <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img alt="CSS3" title="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="Bootstrap" title="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img alt="Node.js" title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img alt="Express" title="Express" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
   <img alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="C" title="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img alt="Swift" title="Swift" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
   <img alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img alt="MariaDB" title="MariaDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg"/>
   <img alt="MongoDB" title="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
@@ -101,9 +106,16 @@ Tenho o objetivo de ser um desenvolvedor o qual valoriza a integridade, o aprend
 - 🇧🇷 Português — Nativo / Fluente  
 - 🇺🇸 Inglês — Avançado
 
+## 🖼️ Portfólio pessoal
+
+Sinta-se à vontade para explorar meu portfólio pessoal e conhecer mais sobre mim, minhas habilidades e projetos:
+
+[![Acesse o Portfólio](https://img.shields.io/badge/Acesse_meu_Portfólio-2F84F5?style=for-the-badge&logo=semanticweb&logoColor=white)](https://brunowasch.github.io/portfolio-pessoal)
+
 ## 📫 Entre em contato!
 - Email: [bwaschburger@gmail.com](bwaschburger@gmail.com)
-
+- LnkedIn: [https://www.linkedin.com/in/bruno-waschburger-silva-2b11b2360](https://www.linkedin.com/in/bruno-waschburger-silva-2b11b2360)
+  
 Fique à vontade para entrar em contato caso queira colaborar em projetos interessantes ou apenas conversar sobre tecnologia!
 
 <picture>
