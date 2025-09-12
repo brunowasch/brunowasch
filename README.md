@@ -54,7 +54,7 @@ Feel free to explore my personal portfolio site to learn more about me, my skill
 
 ## 📫 Contact me!
 - Email: [bwaschburger@gmail.com](bwaschburger@gmail.com)
-- LnkedIn: [https://www.linkedin.com/in/bruno-waschburger-silva-2b11b2360](https://www.linkedin.com/in/bruno-waschburger-silva-2b11b2360)
+- LnkedIn: [https://www.linkedin.com/in/bruno-waschburger-silva-a401b3360](https://www.linkedin.com/in/bruno-waschburger-silva-a401b3360)
 
 Feel free to reach out if you're interested in collaborating on exciting projects or just want to chat about tech!
 
@@ -116,7 +116,7 @@ Sinta-se à vontade para explorar meu portfólio pessoal e conhecer mais sobre m
 
 ## 📫 Entre em contato!
 - Email: [bwaschburger@gmail.com](bwaschburger@gmail.com)
-- LnkedIn: [https://www.linkedin.com/in/bruno-waschburger-silva-2b11b2360](https://www.linkedin.com/in/bruno-waschburger-silva-2b11b2360)
+- LnkedIn: [https://www.linkedin.com/in/bruno-waschburger-silva-a401b3360](https://www.linkedin.com/in/bruno-waschburger-silva-a401b3360)
   
 Fique à vontade para entrar em contato caso queira colaborar em projetos interessantes ou apenas conversar sobre tecnologia!
 
