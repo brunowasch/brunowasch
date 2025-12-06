@@ -39,9 +39,6 @@ Here are some of the tools and technologies I'm familiar with and currently use 
 ## 💡 Personal Values
 I aim to be a developer who values integrity, continuous learning, and collaboration. I believe that building great software is not just about writing code, but about solving real-world problems and making a positive impact on users.
 
-## 📈 My most used languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunowasch&layout=compact&theme=radical)
-
 ## 🌐 Languages I speak
 - 🇧🇷 Portuguese — Native / Fluent
 - 🇺🇸 English — Advanced
@@ -100,9 +97,6 @@ Estas são algumas das ferramentas e tecnologias com as quais tenho tido contato
 
 ## 💡 Valores Pessoais
 Tenho o objetivo de ser um desenvolvedor o qual valoriza a integridade, o aprendizado contínuo e a colaboração. Acredito que construir um bom software não é apenas sobre escrever código, mas sobre resolver problemas reais e causar um impacto positivo nos usuários.
-
-## 📈 Linguagens que mais uso
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunowasch&layout=compact&theme=radical)
 
 ## 🌐 Idiomas que falo
 - 🇧🇷 Português — Nativo / Fluente  
