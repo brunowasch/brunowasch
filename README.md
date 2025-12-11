@@ -1,20 +1,58 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2F84F5&random=false&width=500&lines=Hello%2C+I'm+Bruno+Waschburger+Silva!)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
-I'm a **brazilian full-stack developer** focused on building scalable, efficient, and user-friendly web applications. I have hands-on experience in both front-end and back-end technologies, using technology always in my favor to create applications. I really enjoy working with databases and have a strong interest in both **SQL and NoSQL databases**, focusing on modeling, optimization, and efficient integration to develop high-performance systems.
+I am a **Brazilian full-stack developer** focused on building scalable, efficient, and user-friendly web applications. I have hands-on experience in both front-end and back-end development. I truly enjoy working with databases, both **SQL and NoSQL**, and I have a strong appreciation for front-end technologies and the creation of intuitive user interfaces.
 
-I focus on delivering solutions that solve real-world problems while ensuring the application is intuitive and adaptable to users' needs. I thrive on learning new technologies, experimenting with innovative approaches, and collaborating with other professionals to tackle complex challenges.
+My goal is to deliver solutions that solve real problems, ensuring that applications are intuitive and adaptable to users' needs. I am always looking to learn new technologies, experiment with innovative approaches, and collaborate with other professionals in the web development ecosystem.
 
-Whether it's refining an existing project or building something new from the ground up, I enjoy the process of creating impactful software that delivers real value to users.
+Whether refining an existing project or building something entirely new from scratch, I enjoy the process of creating impactful software that delivers real value to users.
 
-## 🎯 Projects
-Here's my most recent project which I'm currently working on:
-- **[Connect Skills](https://github.com/brunowasch/connect-skills)**
-  - A platform designed to connect job seekers with employers based on behavioral skills using AI.
-  - Features AI-driven personality tests, job recommendations, and company profiles.
-  - Full-stack application with a focus on providing an intuitive and scalable user experience.
+## 🎯 My Projects
+Here are some of the projects I’ve developed:
+
+### **Connect Skills**
+  
+A platform designed to connect candidates and companies based on behavioral skills using Artificial Intelligence.
+  - AI-powered personality tests.
+  - Job recommendations based on the candidate's profile.
+  - Complete profiles for companies and candidates.
+  - Full-stack system focused on scalability and user experience.
+    
+🔗 **Repository:** https://github.com/brunowasch/connect-skills
 
 [![Access Connect Skills here](https://img.shields.io/badge/Access_Connect_Skills_here-2F84F5?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF)](https://connectskills.com.br)
+
+---
+
+### **React Movie API Consumption**
+  
+A React application that consumes a movie API and displays an interactive catalog.
+  - Display of poster, title, and genre.
+  - Filtering by name and category.
+  - Fast and responsive interface.
+
+🔗 **Repository:** https://github.com/brunowasch/api-filme-react
+
+---
+
+### **Cãotinho Zen**
+
+A simple pet shop system focused on organization and usability.
+  - Client registration using LocalStorage.
+  - Responsive and intuitive interface.
+  - Simple and functional workflow.
+
+🔗 **Repository:** https://github.com/brunowasch/teach3035-petshop  
+
+---
+
+### **Battleship in Java**
+
+Recreation of the classic Battleship game, played directly in the terminal.
+  - Logic for positioning and attacking.
+  - Use of conditional structures and loops.
+
+🔗 **Repository:** https://github.com/brunowasch/java-naval-battle 
 
 ## 🛠️ Tools & Technologies
 
@@ -55,27 +93,62 @@ Feel free to explore my personal portfolio site to learn more about me, my skill
 - Email: [bwaschburger@gmail.com](bwaschburger@gmail.com)
 - LnkedIn: [https://www.linkedin.com/in/bruno-waschburger-silva-a401b3360](https://www.linkedin.com/in/bruno-waschburger-silva-a401b3360)
 
-Feel free to reach out if you're interested in collaborating on exciting projects or just want to chat about tech!
-
 ---
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2F84F5&random=false&width=500&lines=Olá%2C+sou+Bruno+Waschburger+Silva!)](https://git.io/typing-svg)
 
 ## 👨‍💻 Sobre Mim
-Sou um **desenvolvedor full-stack brasileiro**, focado em construir aplicações web escaláveis, eficientes e amigáveis ao usuário. Tenho experiência prática tanto no front-end quanto no back-end, utilizando a tecnologia sempre a meu favor para criar aplicações. Gosto muito de trabalhar com bancos de dados e tenho um interesse especial tanto por bancos de dados **SQL quanto NoSQL**, com foco em modelagem, otimização e integração eficiente para desenvolver sistemas de alto desempenho.
+Sou um **desenvolvedor full-stack brasileiro**, focado em construir aplicações web escaláveis, eficientes e amigáveis ao usuário. Tenho experiência prática tanto no front-end quanto no back-end. Gosto muito de trabalhar com bancos de dados, tanto **SQL quanto NoSQL**. Também tenho um grande apreço por tecnologias de front-end e pela criação de interfaces de usuário intuitivas.
 
-Meu foco é entregar soluções que resolvam problemas reais, garantindo que a aplicação seja intuitiva e adaptável às necessidades dos usuários. Estou sempre em busca de aprender novas tecnologias, experimentar abordagens inovadoras e colaborar com outros profissionais para resolver desafios complexos.
+Meu foco é entregar soluções que resolvam problemas reais, garantindo que a aplicação seja intuitiva e adaptável às necessidades dos usuários. Estou sempre em busca de aprender novas tecnologias, experimentar abordagens inovadoras e colaborar com outros profissionais do mundo do desenvolvimento web.
 
 Seja refinando um projeto existente ou construindo algo novo desde o início, gosto do processo de criar softwares impactantes que entregam valor real para os usuários.
 
-## 🎯 Projetos
-Aqui está o meu projeto mais recente no qual estou trabalhando:
-- **[Connect Skills](https://github.com/brunowasch/connect-skills)**
-  - Uma plataforma projetada para conectar candidatos a empregos com empregadores com base em habilidades comportamentais usando IA.
-  - Possui testes de personalidade impulsionados por IA, recomendações de emprego e perfis de empresas.
-  - Aplicação full-stack com foco em proporcionar uma experiência de usuário intuitiva e escalável.
+## 🎯 Meus Projetos
+Estes são alguns dos projetos que desenvolvi:
+### **Connect Skills**
+  
+  Plataforma projetada para conectar candidatos e empresas com base em habilidades comportamentais usando Inteligência Artificial.
+  - Testes de personalidade impulsionados por IA.
+  - Recomendação de vagas baseada no perfil do candidato.
+  - Perfis completos para empresas e candidatos.
+  - Sistema full-stack focado em escalabilidade e experiência do usuário.
+    
+🔗 **Repositório:** https://github.com/brunowasch/connect-skills
 
 [![Acesse o Connect Skills aqui](https://img.shields.io/badge/Acesse_o_Connect_Skills_aqui-2F84F5?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF)](https://connectskills.com.br)
+
+---
+
+### **Consumo de API de filmes em React**
+  
+  Aplicação em React que consome uma API de filmes e exibe um catálogo interativo.
+  - Exibição de pôster, título e gênero.
+  - Filtro por nome e categoria.
+  - Interface rápida e responsiva.
+
+🔗 **Repositório:** https://github.com/brunowasch/api-filme-react
+
+---
+
+### **Cãotinho Zen**
+
+  Sistema simples de petshop com foco em organização e usabilidade.
+  - Cadastro de clientes utilizando LocalStorage.
+  - Interface responsiva e intuitiva.
+  - Fluxo simples e funcional.
+
+🔗 **Repositório:** https://github.com/brunowasch/teach3035-petshop  
+
+---
+
+### **Batalha Naval em Java**
+
+  Recriação do clássico jogo Batalha Naval, jogado diretamente pelo terminal.
+  - Lógica de posicionamento e ataque.
+  - Uso de estruturas condicionais e repetição.
+
+🔗 **Repositório:** https://github.com/brunowasch/java-naval-battle 
 
 ## 🛠️ Ferramentas e Tecnologias
 
@@ -115,8 +188,6 @@ Sinta-se à vontade para explorar meu portfólio pessoal e conhecer mais sobre m
 ## 📫 Entre em contato!
 - Email: [bwaschburger@gmail.com](bwaschburger@gmail.com)
 - LnkedIn: [https://www.linkedin.com/in/bruno-waschburger-silva-a401b3360](https://www.linkedin.com/in/bruno-waschburger-silva-a401b3360)
-  
-Fique à vontade para entrar em contato caso queira colaborar em projetos interessantes ou apenas conversar sobre tecnologia!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunowasch/brunowasch/output/github-contribution-grid-snake-dark.svg">
