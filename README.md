@@ -187,7 +187,7 @@ Sinta-se à vontade para explorar meu portfólio pessoal e conhecer mais sobre m
 
 ## 📫 Entre em contato!
 - Email: [bwaschburger@gmail.com](bwaschburger@gmail.com)
-- LnkedIn: [https://www.linkedin.com/in/bruno-waschburger-silva-a401b3360](https://www.linkedin.com/in/bruno-waschburger-silva-a401b3360)
+- LnkedIn: [https://www.linkedin.com/in/brunowasch](https://www.linkedin.com/in/brunowasch)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunowasch/brunowasch/output/github-contribution-grid-snake-dark.svg">
