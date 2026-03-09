@@ -91,7 +91,7 @@ Feel free to explore my personal portfolio site to learn more about me, my skill
 
 ## 📫 Contact me!
 - Email: [bwaschburger@gmail.com](bwaschburger@gmail.com)
-- LnkedIn: [https://www.linkedin.com/in/bruno-waschburger-silva-a401b3360](https://www.linkedin.com/in/bruno-waschburger-silva-a401b3360)
+- LnkedIn: [https://www.linkedin.com/in/brunowasch](https://www.linkedin.com/in/brunowasch)
 
 ---
 
