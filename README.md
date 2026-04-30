@@ -39,7 +39,7 @@ Feel free to explore my personal portfolio site to learn more about me, my skill
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2F84F5&random=false&width=500&lines=Olá%2C+sou+Bruno+Waschburger+Silva!)](https://git.io/typing-svg)
 
 ## Sobre Mim
-Sou técnico em informática e estudante de Ciência da Computação, apaixonado pela área de desenvolvimento web e de LLMs. Atualmente, desenvolvo projetos com stacks modernas voltados às necessidades reais do mercado. Tenho interesse em aplicações que integrem inteligência artificial ao desenvolvimento full-stack para criar sistemas eficientes, inteligentes e práticas.
+Sou técnico em informática e estudante de Ciência da Computação, apaixonado pela área de desenvolvimento web e de LLMs. Atualmente, desenvolvo projetos com stacks modernas voltados às necessidades reais do mercado. Tenho interesse em aplicações que integrem inteligência artificial ao desenvolvimento full-stack para criar sistemas eficientes, inteligentes e práticos.
 
 ## Ferramentas e Tecnologias
 
