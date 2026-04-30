@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2F84F5&random=false&width=500&lines=Hello%2C+I'm+Bruno+Waschburger+Silva!)](https://git.io/typing-svg)
 
 ## About Me
-I am an IT technician and a Computer Science student, passionate about web development and LLMs. Currently, I develop projects using modern tech stacks focused on real market needs, applying best practices in software engineering, scalability, and user experience. I am interested in solutions that integrate artificial intelligence into full-stack development to create efficient, intelligent, and practical applications.
+I am an IT technician and a Computer Science student, passionate about web development and LLMs. Currently, I develop projects using modern tech stacks focused on real market needs, applying best practices in software engineering, scalability, and user experience. I am interested in applications that integrate artificial intelligence into full-stack development to create efficient, intelligent, and practical applications.
 
 ## Tools & Technologies
 
@@ -39,7 +39,7 @@ Feel free to explore my personal portfolio site to learn more about me, my skill
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2F84F5&random=false&width=500&lines=Olá%2C+sou+Bruno+Waschburger+Silva!)](https://git.io/typing-svg)
 
 ## Sobre Mim
-Sou técnico em informática e estudante de Ciência da Computação, apaixonado pela área de desenvolvimento web e de LLMs. Atualmente, desenvolvo projetos com stacks modernas voltados às necessidades reais do mercado, aplicando boas práticas de engenharia de software, escalabilidade e experiência do usuário. Tenho interesse em soluções que integrem inteligência artificial ao desenvolvimento full-stack para criar aplicações eficientes, inteligentes e práticas.
+Sou técnico em informática e estudante de Ciência da Computação, apaixonado pela área de desenvolvimento web e de LLMs. Atualmente, desenvolvo projetos com stacks modernas voltados às necessidades reais do mercado, aplicando boas práticas de engenharia de software, escalabilidade e experiência do usuário. Tenho interesse em aplicações que integrem inteligência artificial ao desenvolvimento full-stack para criar aplicações eficientes, inteligentes e práticas.
 
 ## Ferramentas e Tecnologias
 
