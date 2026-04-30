@@ -20,11 +20,11 @@ Here are some of the tools and technologies I'm familiar with and currently use 
   <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
 
-## 🌐 Languages I speak
+## Languages I speak
 - 🇧🇷 Portuguese — Native / Fluent
 - 🇺🇸 English — Advanced
 
-## 🖼️ Personal portfolio
+## Personal portfolio
 
 Feel free to explore my personal portfolio site to learn more about me, my skills, and projects:
 
