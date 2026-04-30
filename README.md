@@ -21,7 +21,7 @@ Here are some of the tools and technologies I'm familiar with and currently use 
 </p>
 
 ## Languages I speak
-- 🇧🇷 Portuguese — Native / Fluent
+- 🇧🇷 Portuguese — Native
 - 🇺🇸 English — Advanced
 
 ## Personal portfolio
@@ -60,7 +60,7 @@ Estas são algumas das ferramentas e tecnologias com as quais tenho tido contato
 
 ## Idiomas que falo
 - 🇧🇷 Português - Nativo
-- 🇺🇸 English — Avançado
+- 🇺🇸 Inglês — Avançado
 
 ## Portfólio pessoal
 
