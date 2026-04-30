@@ -13,7 +13,7 @@ Here are some of the tools and technologies I'm familiar with and currently use 
   <img alt="Node.js" title="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img alt="PostgreSQL" title="PostgreSQ" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img alt="Prisma" title="Prisma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"/>
   <img alt="Docker" title="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   <img alt="n8n" title="n8n" width="40px" src="https://cdn.simpleicons.org/n8n"/>
@@ -51,7 +51,7 @@ Estas são algumas das ferramentas e tecnologias com as quais tenho tido contato
   <img alt="Node.js" title="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img alt="PostgreSQL" title="PostgreSQ" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img alt="Prisma" title="Prisma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"/>
   <img alt="Docker" title="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   <img alt="n8n" title="n8n" width="40px" src="https://cdn.simpleicons.org/n8n"/>
