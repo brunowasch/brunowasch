@@ -27,10 +27,14 @@ Here are some of the tools and technologies I use in my projects:
   <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
 
-## Featured Projects & Experience
-- **Kuantics & AI NOC**: Multi-tenant ISP network monitoring SaaS featuring real-time AI agents for infrastructure diagnostics over SSH.
-- **Connect Skills (Up Connections)**: Hackatime 2024 Winner & 16th FEINTEC (2025) Awardee – AI-backed web platform connecting candidates with companies through behavioral skill evaluations.
-- **Professional Background**: Full-Stack Developer experience at Solutti Networks building operational workflow automations, LLM-integrated AI agents, and network security modules.
+## Featured Projects
+- **Kuantics & AI NOC**: Architected Noc.ai, an AI-powered NOC solution within Kuantics (a multi-tenant ISP monitoring SaaS with ~29 production repositories) featuring real-time AI agents executing read-only multi-vendor commands over SSH with strict authorization and kill-switches.
+- **Connect Skills (Up Connections)**: Hackatime 2024 Winner & 16th FEINTEC Awardee – AI-driven platform matching candidates with employers based on soft skills and behavioral competencies.
+- **Meetor.ai**: Real-time mentorship assessment platform featuring seamless data synchronization with Connect Skills to update candidate profiles automatically.
+- **Teachgram**: Full-stack social network platform built with Java 17, Spring Boot 3.3, Spring Security, React 18, and PostgreSQL, featuring JWT authentication and image feed posts.
+- **Course & Student Registration System**: Relational database desktop application for course management and student enrollment tracking built with Java, Hibernate, and PostgreSQL.
+- **Cãotinho Zen**: Pet shop management web application featuring client/pet registration forms, interactive detail modals, and product store persistence (HTML5, CSS3, JavaScript).
+- **WTech (GitHub User Search)**: Interactive web application enabling users to search and discover GitHub profiles via the official GitHub REST API (React, Tailwind CSS).
 
 ## Languages I speak
 - 🇧🇷 Portuguese — Native
@@ -77,10 +81,14 @@ Estas são algumas das ferramentas e tecnologias que utilizo em meus projetos:
   <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
 
-## Principais Projetos e Experiência
-- **Kuantics & AI NOC**: SaaS multi-tenant de monitoramento de redes ISP com agentes de IA em tempo real para diagnósticos de infraestrutura via SSH.
-- **Connect Skills (Up Connections)**: Vencedor do Hackatime 2024 & Premiado na 16ª FEINTEC (2025) – Plataforma web com IA para conectar candidatos a empresas através de avaliações comportamentais.
-- **Experiência Profissional**: Atuação como Desenvolvedor Full-Stack na Solutti Networks criando automações de fluxos operacionais, agentes de IA integrados a LLMs e módulos de segurança de rede.
+## Principais Projetos
+- **Kuantics & AI NOC**: Arquitetei o Noc.ai, uma solução de NOC impulsionada por IA dentro do Kuantics (SaaS de monitoramento ISP multi-tenant com ~29 repositórios de produção), contando com agentes de IA em tempo real para comandos multi-vendor via SSH com autorização estrita e kill-switches.
+- **Connect Skills (Up Connections)**: Vencedor do Hackatime 2024 & Premiado na 16ª FEINTEC – Plataforma com IA para conectar candidatos a empregadores com base em competências comportamentais.
+- **Meetor.ai**: Plataforma de avaliação de mentorias em tempo real com integração de dados contínua com o Connect Skills para atualização automática de perfis de candidatos.
+- **Teachgram**: Plataforma de rede social full-stack desenvolvida com Java 17, Spring Boot 3.3, Spring Security, React 18 e PostgreSQL, com autenticação JWT e posts com feed de imagens.
+- **Sistema de Registro de Cursos e Alunos**: Aplicação desktop de banco de dados relacional para gerenciamento de cursos e rastreamento de matrículas (Java, Hibernate, PostgreSQL).
+- **Cãotinho Zen**: Aplicação web de gerenciamento para pet shop com formulários de cadastro de clientes/pets, modais interativos e persistência via LocalStorage (HTML5, CSS3, JavaScript).
+- **WTech (GitHub User Search)**: Aplicação web interativa para buscar e descobrir perfis do GitHub consumindo a API REST oficial (React, Tailwind CSS).
 
 ## Idiomas que falo
 - 🇧🇷 Português — Nativo
