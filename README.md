@@ -83,7 +83,7 @@ Estas são algumas das ferramentas e tecnologias que utilizo em meus projetos:
 
 ## Principais Projetos
 - [**Kuantics & AI NOC**](https://kuantics.io): Desenvolvi o NOC AI, uma solução de NOC impulsionada por IA dentro do Kuantics (SaaS de monitoramento ISP multi-tenant com ~29 repositórios de produção), contando com agentes de IA em tempo real para comandos multi-vendor via SSH com autorização estrita e kill-switches.
-- [**Connect Skills (Up Connections)**](https://connectskills.com.br): Vencedor do Hackatime 2024 & Premiado na 16ª FEINTEC – Plataforma com IA para conectar candidatos a empregadores com base em competências comportamentais.
+- [**Connect Skills**](https://connectskills.com.br): Vencedor do Hackatime 2024 & Premiado na 16ª FEINTEC – Plataforma com IA para conectar candidatos a empregadores com base em competências comportamentais.
 - [**Meetor.ai**](https://mentorship-connections-4iip.vercel.app): Plataforma de avaliação de mentorias em tempo real com integração de dados contínua com o Connect Skills para atualização automática de perfis de candidatos.
 - [**Teachgram**](https://github.com/brunowasch/teachgram): Plataforma de rede social full-stack desenvolvida com Java 17, Spring Boot 3.3, Spring Security, React 18 e PostgreSQL, com autenticação JWT e posts com feed de imagens.
 - [**Sistema de Registro de Cursos e Alunos**](https://github.com/brunowasch/Sistema-Curso): Aplicação desktop de banco de dados relacional para gerenciamento de cursos e rastreamento de matrículas (Java, Hibernate, PostgreSQL).
