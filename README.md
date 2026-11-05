@@ -28,13 +28,13 @@ Here are some of the tools and technologies I use in my projects:
 </p>
 
 ## Featured Projects
-- **Kuantics & AI NOC**: Architected Noc.ai, an AI-powered NOC solution within Kuantics (a multi-tenant ISP monitoring SaaS with ~29 production repositories) featuring real-time AI agents executing read-only multi-vendor commands over SSH with strict authorization and kill-switches.
-- **Connect Skills (Up Connections)**: Hackatime 2024 Winner & 16th FEINTEC Awardee – AI-driven platform matching candidates with employers based on soft skills and behavioral competencies.
-- **Meetor.ai**: Real-time mentorship assessment platform featuring seamless data synchronization with Connect Skills to update candidate profiles automatically.
-- **Teachgram**: Full-stack social network platform built with Java 17, Spring Boot 3.3, Spring Security, React 18, and PostgreSQL, featuring JWT authentication and image feed posts.
-- **Course & Student Registration System**: Relational database desktop application for course management and student enrollment tracking built with Java, Hibernate, and PostgreSQL.
-- **Cãotinho Zen**: Pet shop management web application featuring client/pet registration forms, interactive detail modals, and product store persistence (HTML5, CSS3, JavaScript).
-- **WTech (GitHub User Search)**: Interactive web application enabling users to search and discover GitHub profiles via the official GitHub REST API (React, Tailwind CSS).
+- [**Kuantics & AI NOC**](https://kuantics.io/en): Architected Noc.ai, an AI-powered NOC solution within Kuantics (a multi-tenant ISP monitoring SaaS with ~29 production repositories) featuring real-time AI agents executing read-only multi-vendor commands over SSH with strict authorization and kill-switches.
+- [**Connect Skills**](https://connectskills.com.br): Hackatime 2024 Winner & 16th FEINTEC Awardee – AI-driven platform matching candidates with employers based on soft skills and behavioral competencies.
+- [**Meetor.ai**](https://mentorship-connections-4iip.vercel.app): Real-time mentorship assessment platform featuring seamless data synchronization with Connect Skills to update candidate profiles automatically.
+- [**Teachgram**](https://github.com/brunowasch/teachgram): Full-stack social network platform built with Java 17, Spring Boot 3.3, Spring Security, React 18, and PostgreSQL, featuring JWT authentication and image feed posts.
+- [**Course & Student Registration System**](https://github.com/brunowasch/Sistema-Curso): Relational database desktop application for course management and student enrollment tracking built with Java, Hibernate, and PostgreSQL.
+- [**Cãotinho Zen**](https://github.com/brunowasch/teach3035-petshop): Pet shop management web application featuring client/pet registration forms, interactive detail modals, and product store persistence (HTML5, CSS3, JavaScript).
+- [**WTech (GitHub User Search)**](https://github.com/brunowasch/wtech): Interactive web application enabling users to search and discover GitHub profiles via the official GitHub REST API (React, Tailwind CSS).
 
 ## Languages I speak
 - 🇧🇷 Portuguese — Native
@@ -82,13 +82,13 @@ Estas são algumas das ferramentas e tecnologias que utilizo em meus projetos:
 </p>
 
 ## Principais Projetos
-- **Kuantics & AI NOC**: Arquitetei o Noc.ai, uma solução de NOC impulsionada por IA dentro do Kuantics (SaaS de monitoramento ISP multi-tenant com ~29 repositórios de produção), contando com agentes de IA em tempo real para comandos multi-vendor via SSH com autorização estrita e kill-switches.
-- **Connect Skills (Up Connections)**: Vencedor do Hackatime 2024 & Premiado na 16ª FEINTEC – Plataforma com IA para conectar candidatos a empregadores com base em competências comportamentais.
-- **Meetor.ai**: Plataforma de avaliação de mentorias em tempo real com integração de dados contínua com o Connect Skills para atualização automática de perfis de candidatos.
-- **Teachgram**: Plataforma de rede social full-stack desenvolvida com Java 17, Spring Boot 3.3, Spring Security, React 18 e PostgreSQL, com autenticação JWT e posts com feed de imagens.
-- **Sistema de Registro de Cursos e Alunos**: Aplicação desktop de banco de dados relacional para gerenciamento de cursos e rastreamento de matrículas (Java, Hibernate, PostgreSQL).
-- **Cãotinho Zen**: Aplicação web de gerenciamento para pet shop com formulários de cadastro de clientes/pets, modais interativos e persistência via LocalStorage (HTML5, CSS3, JavaScript).
-- **WTech (GitHub User Search)**: Aplicação web interativa para buscar e descobrir perfis do GitHub consumindo a API REST oficial (React, Tailwind CSS).
+- [**Kuantics & AI NOC**](https://kuantics.io): Desenvolvi o NOC AI, uma solução de NOC impulsionada por IA dentro do Kuantics (SaaS de monitoramento ISP multi-tenant com ~29 repositórios de produção), contando com agentes de IA em tempo real para comandos multi-vendor via SSH com autorização estrita e kill-switches.
+- [**Connect Skills (Up Connections)**](https://connectskills.com.br): Vencedor do Hackatime 2024 & Premiado na 16ª FEINTEC – Plataforma com IA para conectar candidatos a empregadores com base em competências comportamentais.
+- [**Meetor.ai**](https://mentorship-connections-4iip.vercel.app): Plataforma de avaliação de mentorias em tempo real com integração de dados contínua com o Connect Skills para atualização automática de perfis de candidatos.
+- [**Teachgram**](https://github.com/brunowasch/teachgram): Plataforma de rede social full-stack desenvolvida com Java 17, Spring Boot 3.3, Spring Security, React 18 e PostgreSQL, com autenticação JWT e posts com feed de imagens.
+- [**Sistema de Registro de Cursos e Alunos**](https://github.com/brunowasch/Sistema-Curso): Aplicação desktop de banco de dados relacional para gerenciamento de cursos e rastreamento de matrículas (Java, Hibernate, PostgreSQL).
+- [**Cãotinho Zen**](https://github.com/brunowasch/teach3035-petshop): Aplicação web de gerenciamento para pet shop com formulários de cadastro de clientes/pets, modais interativos e persistência via LocalStorage (HTML5, CSS3, JavaScript).
+- [**WTech (GitHub User Search)**](https://github.com/brunowasch/wtech): Aplicação web interativa para buscar e descobrir perfis do GitHub consumindo a API REST oficial (React, Tailwind CSS).
 
 ## Idiomas que falo
 - 🇧🇷 Português — Nativo
